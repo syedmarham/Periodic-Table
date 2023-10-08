@@ -1,0 +1,477 @@
+body{
+    background-color: rgb(159, 159, 159);
+}
+#one{
+    background-color: rgb(139, 74, 225);
+}
+
+#two{
+   background-color: lightpink;
+}
+
+#three{
+    background-color: rgb(255, 76, 106);
+}
+
+#four{
+    background-color: lightsalmon;
+}
+
+#five{
+    background-color: rgb(92, 164, 236); 
+}
+
+#six{
+    background-color: rgb(193, 105, 237);
+}
+
+#seven{
+    background-color: rgb(193, 105, 237);
+}
+
+#eight{
+    background-color: rgb(193, 105, 237);
+}
+
+#nine{
+    background-color: rgb(255, 221, 226);
+}
+
+#ten{
+    background-color: lightpink;
+}
+
+#eleven{
+    background-color: rgb(255, 76, 106);
+}
+
+#twelve{
+    background-color: lightsalmon;
+}
+
+#thirteen{
+    background-color: rgb(234,255,194);
+}
+
+#fourteen{
+    background-color: rgb(92, 164, 236); 
+}
+
+#fifteen{
+    background-color: rgb(193, 105, 237);
+}
+
+#sixteen{
+    background-color: rgb(193, 105, 237);
+}
+
+#seventeen{
+    background-color: rgb(255, 221, 226);
+}
+
+#eighteen{
+    background-color: lightpink;
+}
+#nineteen{
+    background-color: rgb(255, 76, 106);
+}
+
+#twenty{
+    background-color: lightsalmon;
+}
+
+#twentyone{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentytwo{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentythree{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentyfour{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentyfive{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentysix{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentyseven{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentyeight{
+    background-color: lightgoldenrodyellow;
+}
+
+#twentynine{
+    background-color: lightgoldenrodyellow;
+}
+
+#thirty{
+    background-color: lightgoldenrodyellow;
+}
+
+#thirtyone{
+   background-color: rgb(234,255,194);
+}
+
+#thirtytwo{
+   background-color: rgb(92, 164, 236);
+}
+#thirtythree{
+   background-color: rgb(193, 105, 237);
+}
+
+#thirtyfour{
+    background-color: rgb(193, 105, 237);
+}
+
+#thirtyfive{
+   background-color: rgb(255, 221, 226);
+}
+
+#thirtysix{
+   background-color: lightpink;
+}
+
+#thirtyseven{
+    background-color: rgb(255, 76, 106);
+}
+
+#thirtyeight{
+    background-color: lightsalmon;
+}
+
+#thirtynine{
+    background-color: lightgoldenrodyellow;
+}
+
+#forty{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortyone{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortytwo{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortythree{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortyfour{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortyfive{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortysix{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortyseven{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortyeight{
+    background-color: lightgoldenrodyellow;
+}
+
+#fortynine{
+    background-color: rgb(234,255,194);
+}
+
+#fifty{
+    background-color: rgb(234,255,194);
+}
+
+#fiftyone{
+    background-color: rgb(92, 164, 236);
+}
+
+#fiftytwo{
+    background-color: rgb(92, 164, 236);
+}
+
+#fiftythree{
+    background-color: rgb(255, 221, 226);
+}
+
+#fiftyfour{
+    background-color: lightpink;
+}
+
+#fiftyfive{
+    background-color: rgb(255, 76, 106);
+}
+
+#fiftysix{
+    background-color: lightsalmon;
+}
+
+#fiftyseven{
+   background-color: rgb(255, 141, 141);
+}
+
+#fiftyeight{
+    background-color: lightgoldenrodyellow;
+}
+
+#fiftynine{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixty{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtyone{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtytwo{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtythree{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtyfour{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtyfive{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtysix{
+    background-color: lightgoldenrodyellow;
+}
+
+#sixtyseven{
+    background-color: rgb(234,255,194);
+}
+
+#sixtyeight{
+    background-color: rgb(234,255,194);
+}
+
+#sixtynine{
+    background-color: rgb(234,255,194);
+}
+
+#seventy{
+    background-color: rgb(92, 164, 236);
+}
+
+#seventyone{
+    background-color: rgb(255, 221, 226);
+}
+
+#seventytwo{
+    background-color: lightpink;   
+}
+
+#seventythree{
+    background-color: rgb(255, 76, 106);
+}
+
+#seventyfour{
+  background-color: lightsalmon;
+}
+
+#seventyfive{
+    background-color: rgb(255, 141, 141);
+}
+
+#seventysix{
+    background-color: lightgoldenrodyellow;
+}
+
+#seventyseven{
+    background-color: lightgoldenrodyellow;
+}
+
+#seventyeight{
+    background-color: lightgoldenrodyellow;
+}
+
+#seventynine{
+    background-color: lightgoldenrodyellow;
+}
+
+#eighty{
+    background-color: lightgoldenrodyellow;
+}
+
+#eightyone{
+    background-color: lightgoldenrodyellow;
+}
+
+#eightytwo{
+    background-color: lightgoldenrodyellow;
+}
+
+#eightythree{
+    background-color: lightgoldenrodyellow;
+}
+
+#eightyfour{
+    background-color: lightgoldenrodyellow;
+}
+
+#eightyfive{
+    background-color: rgb(234,255,194);
+}
+
+#eightysix{
+    background-color: rgb(234,255,194);
+}
+
+#eightyseven{
+    background-color: rgb(234,255,194);
+}
+
+#eightyeight{
+    background-color: rgb(234,255,194);
+}
+
+#eightynine{
+    background-color: rgb(255, 221, 226);
+}
+
+#ninety{
+   background-color: lightpink;
+}
+
+#ninetyone{
+    background-color: rgb(255, 141, 141);
+}
+#ninetytwo{
+    background-color: rgb(255, 141, 141);
+}
+#ninetythree{
+    background-color: rgb(255, 141, 141);
+}
+#ninetyfour{
+    background-color: rgb(255, 141, 141);
+}
+
+#ninetyfive{
+    background-color: rgb(255, 141, 141);
+}
+
+#ninetysix{
+    background-color: rgb(255, 141, 141);
+}
+
+#ninetyseven{
+    background-color: rgb(255, 141, 141);
+}
+
+#ninetyeight{
+    background-color: rgb(255, 141, 141);
+}
+
+#ninetynine{
+    background-color: rgb(255, 141, 141);
+}
+
+#Hundred{
+    background-color: rgb(255, 141, 141);
+}
+
+#oneone{
+    background-color: rgb(255, 141, 141);
+}
+
+#onetwo{
+    background-color: rgb(255, 141, 141);
+}
+
+#onethree{
+    background-color: rgb(255, 141, 141);
+}
+
+#onefour{
+    background-color: rgb(255, 141, 141);
+}
+
+#onefive{
+    background-color: rgb(255, 141, 141);
+}
+
+#onesix{
+    background-color: rgb(255, 141, 141);
+}
+
+#oneseven{
+    background-color: rgb(255, 141, 141);
+}
+
+#oneeight{
+    background-color: rgb(255, 141, 141);
+}
+
+#onenine{
+    background-color: rgb(255, 141, 141);
+}
+
+#oneten{
+    background-color: rgb(255, 141, 141);
+}
+
+#twoone{
+    background-color: rgb(255, 141, 141);
+}
+
+#twotwo{
+    background-color: rgb(255, 141, 141);
+} 
+
+#twothree{
+    background-color: rgb(255, 141, 141);
+}
+
+#twofour{
+    background-color: rgb(255, 141, 141);
+}
+
+#twofive{
+    background-color: rgb(255, 141, 141);
+}
+
+#twosix{
+    background-color: rgb(255, 141, 141);
+}
+
+#twoseven{
+    background-color: rgb(255, 141, 141);
+}
+
+#twoeight{
+    background-color: rgb(255, 141, 141);
+}
+
+#twonine{
+    background-color: rgb(255, 141, 141);
+}
+
+#twoten{
+    background-color: rgb(255, 141, 141);
+}
